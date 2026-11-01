@@ -1,6 +1,6 @@
 If you'd like to support this project, consider donating! :) https://ko-fi.com/stonepixels
 
-Pokemon FireRed Twitch mod
+Pokemon FireRed Twitch rom hack
 
 This lets your Twitch chat mess with Pokemon FireRed while you play.
 
