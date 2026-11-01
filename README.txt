@@ -51,6 +51,6 @@ Things to know
 - Chatters have a 30 second cooldown per command, 120 seconds for !pokedex. Mods and the broadcaster don't have a cooldown.
 - Emotes get turned into a 64x64 sprite with 16 colors, so they look pixelated. If a new emote comes in during a battle, it's used in the next battle.
 
-![image URL](./Example.png)
-![image URL](./Example1.png)
+![image URL](https://github.com/Stonepixels/Pokemon-FireRed-Twitch-Intergration-mod/blob/main/Example.png)
+![image URL](https://github.com/Stonepixels/Pokemon-FireRed-Twitch-Intergration-mod/blob/main/Example1.png)
 
